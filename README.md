@@ -13,7 +13,7 @@ Evaluation Criteria: Strength score, complexity feedback, and recommendations fr
 
 **3. Method**
    
-1.Created 5 passwords with varying complexity:
+1. Created 5 passwords with varying complexity:
 
 Short/simple
 
@@ -56,6 +56,7 @@ Change passwords regularly and never reuse across accounts.
 Consider using a password manager for strong random passwords.
 
 **6. Common Password Attacks**
+
 Brute Force Attack: Tries all possible combinations until correct; longer/more complex passwords take much longer to crack.
 
 Dictionary Attack: Uses lists of common passwords or words; easily defeats simple words like “password” or “welcome123”.
@@ -65,6 +66,7 @@ Phishing: Tricks user into revealing password; not prevented by complexity but b
 Credential Stuffing: Using leaked credentials from one service to try on another; avoid by not reusing passwords.
 
 **7. How Complexity Affects Security**
+
 Short, simple passwords can be cracked in seconds by brute force.
 
 Adding mixed case, numbers, and symbols exponentially increases cracking time.
@@ -72,4 +74,5 @@ Adding mixed case, numbers, and symbols exponentially increases cracking time.
 Long passphrases can be more secure and easier to remember than short random strings.
 
 **8. Conclusion**
+
 Testing different passwords showed that length and variety of character types greatly improve security. The best protection comes from using unique, long, and complex passwords combined with safe online practices.
