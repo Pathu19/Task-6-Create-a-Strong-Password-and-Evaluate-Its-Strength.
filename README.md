@@ -13,17 +13,17 @@ Evaluation Criteria: Strength score, complexity feedback, and recommendations fr
 
 **3. Method**
    
-1. Created 5 passwords with varying complexity:
+1.Created 5 passwords with varying complexity:
 
-Short/simple
+  Short/simple
 
-Medium complexity
+  Medium complexity
 
-Strong with symbols and mixed case
+  Strong with symbols and mixed case
 
-Long passphrase
+  Long passphrase
 
-Random generated secure password
+  Random generated secure password
 
 2.Tested each password on PasswordMeter.
 
