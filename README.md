@@ -1,5 +1,5 @@
 # Task-6-Create-a-Strong-Password-and-Evaluate-Its-Strength.
-To Understand what makes a password strong and test it against password strength tools. And also to safeguard the valuable data by basic precaution which to avoid credential theft. 
+To Understand what makes a password strong and test it against password strength tools. And also to safeguard the valuable data by basic precaution which is to avoid credential theft. 
 
 **1. Objective**
    
@@ -7,7 +7,7 @@ To understand the factors that make a password strong, test different passwords 
 
 **2. Tools Used**
    
-Website: PasswordMeter.com (Free online password strength checker)
+Website: Password Meter.com (Free online password strength checker)
 
 Evaluation Criteria: Strength score, complexity feedback, and recommendations from the tool.
 
