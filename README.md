@@ -45,34 +45,34 @@ Evaluation Criteria: Strength score, complexity feedback, and recommendations fr
    
 - Use at least 12 characters; longer is always better.
 
-Include uppercase, lowercase, numbers, and symbols.
+- Include uppercase, lowercase, numbers, and symbols.
 
-Avoid dictionary words or predictable sequences.
+- Avoid dictionary words or predictable sequences.
 
-Use passphrases (e.g., “Tiger$Plays@Guitar”) for easier recall with high security.
+- Use passphrases (e.g., “Tiger$Plays@Guitar”) for easier recall with high security.
 
-Change passwords regularly and never reuse across accounts.
+- Change passwords regularly and never reuse across accounts.
 
-Consider using a password manager for strong random passwords.
+- Consider using a password manager for strong random passwords.
 
 **6. Common Password Attacks**
 
-Brute Force Attack: Tries all possible combinations until correct; longer/more complex passwords take much longer to crack.
+- Brute Force Attack: Tries all possible combinations until correct; longer/more complex passwords take much longer to crack.
 
-Dictionary Attack: Uses lists of common passwords or words; easily defeats simple words like “password” or “welcome123”.
+- Dictionary Attack: Uses lists of common passwords or words; easily defeats simple words like “password” or “welcome123”.
 
-Phishing: Tricks user into revealing password; not prevented by complexity but by awareness.
+- Phishing: Tricks user into revealing password; not prevented by complexity but by awareness.
 
-Credential Stuffing: Using leaked credentials from one service to try on another; avoid by not reusing passwords.
+- Credential Stuffing: Using leaked credentials from one service to try on another; avoid by not reusing passwords.
 
 **7. How Complexity Affects Security**
 
-Short, simple passwords can be cracked in seconds by brute force.
+- Short, simple passwords can be cracked in seconds by brute force.
 
-Adding mixed case, numbers, and symbols exponentially increases cracking time.
+- Adding mixed case, numbers, and symbols exponentially increases cracking time.
 
-Long passphrases can be more secure and easier to remember than short random strings.
+- Long passphrases can be more secure and easier to remember than short random strings.
 
 **8. Conclusion**
 
-Testing different passwords showed that length and variety of character types greatly improve security. The best protection comes from using unique, long, and complex passwords combined with safe online practices.
+&nbsp;Testing different passwords showed that length and variety of character types greatly improve security. The best protection comes from using unique, long, and complex passwords combined with safe online practices.
