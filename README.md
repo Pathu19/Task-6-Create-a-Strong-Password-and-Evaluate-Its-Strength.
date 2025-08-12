@@ -1,9 +1,9 @@
 # Task-6-Create-a-Strong-Password-and-Evaluate-Its-Strength.
-To Understand what makes a password strong and test it against password strength tools. And also to safeguard the valuable data by basic precaution which is to avoid credential theft. 
+&nbsp;To Understand what makes a password strong and test it against password strength tools. And also to safeguard the valuable data by basic precaution which is to avoid credential theft. 
 
 **1. Objective**
    
-To understand the factors that make a password strong, test different passwords using an online password strength checker, and learn best practices for password creation and security.
+&nbsp;To understand the factors that make a password strong, test different passwords using an online password strength checker, and learn best practices for password creation and security.
 
 **2. Tools Used**
    
@@ -15,15 +15,15 @@ Evaluation Criteria: Strength score, complexity feedback, and recommendations fr
    
 1.Created 5 passwords with varying complexity:
 
-  Short/simple
+  - Short/simple
 
-  Medium complexity
+  - Medium complexity
 
-  Strong with symbols and mixed case
+  - Strong with symbols and mixed case
 
-  Long passphrase
+  - Long passphrase
 
-  Random generated secure password
+  - Random generated secure password
 
 2.Tested each password on PasswordMeter.
 
@@ -43,7 +43,7 @@ Evaluation Criteria: Strength score, complexity feedback, and recommendations fr
 
 **5. Best Practices Learned**
    
-Use at least 12 characters; longer is always better.
+- Use at least 12 characters; longer is always better.
 
 Include uppercase, lowercase, numbers, and symbols.
 
