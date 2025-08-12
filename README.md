@@ -3,7 +3,7 @@
 
 **1. Objective**
    
-&nbsp;To understand the factors that make a password strong, test different passwords using an online password strength checker, and learn best practices for password creation and security.
+&nbsp;&nbsp;&nbsp;&nbsp;To understand the factors that make a password strong, test different passwords using an online password strength checker, and learn best practices for password creation and security.
 
 **2. Tools Used**
    
@@ -75,4 +75,4 @@ Evaluation Criteria: Strength score, complexity feedback, and recommendations fr
 
 **8. Conclusion**
 
-&nbsp;Testing different passwords showed that length and variety of character types greatly improve security. The best protection comes from using unique, long, and complex passwords combined with safe online practices.
+&nbsp;&nbsp;&nbsp;&nbsp;Testing different passwords showed that length and variety of character types greatly improve security. The best protection comes from using unique, long, and complex passwords combined with safe online practices.
